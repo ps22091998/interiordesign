@@ -105,6 +105,8 @@
 
 <div class="clearfix"></div>
 </div>
+	
 
 </body>
+	<?php ?>
 </html>
